@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/BookStoreMarket/.vs/BookStoreMarket
+/BookStoreMarket/BookStoreMarket/bin/Debug/net5.0
+/BookStoreMarket/BookStoreMarket/obj
